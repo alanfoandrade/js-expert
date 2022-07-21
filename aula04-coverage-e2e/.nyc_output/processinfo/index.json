@@ -1,0 +1,1 @@
+{"processes":{"b39dbc39-bc32-43ac-a7d7-a60f3177d494":{"parent":null,"children":["f0996cd6-eeb8-4a11-a665-f7b52e3ab62b"]},"f0996cd6-eeb8-4a11-a665-f7b52e3ab62b":{"parent":"b39dbc39-bc32-43ac-a7d7-a60f3177d494","children":[]}},"files":{"/home/alan/Curos/JS-Expert/aula04-coverage-e2e/api.js":["f0996cd6-eeb8-4a11-a665-f7b52e3ab62b"]},"externalIds":{}}
